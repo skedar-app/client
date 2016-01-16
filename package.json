@@ -1,0 +1,24 @@
+{
+  "name": "socks-client",
+  "version": "1.0.0",
+  "description": "node.js client",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skedar-app/socks-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skedar-app/socks-client/issues"
+  },
+  "homepage": "https://github.com/skedar-app/socks-client#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "socket.io-client": "^1.4.4",
+    "socket.io-stream": "^0.9.0"
+  }
+}
